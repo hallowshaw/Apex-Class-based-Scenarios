@@ -4,7 +4,7 @@ This repository contains various Apex code scenarios to help understand and prac
 
 ---
 
-## [Scenario1: Retrieve Accounts with Related Contacts](scenarios/Scenario1_CountRelatedContacts.cls)
+## [Scenario1: Retrieve Accounts with Related Contacts](Scenario1_CountRelatedContacts.cls)
 
 **Description:**  
 Retrieve all accounts that have a phone number and display the count of related contacts for each account.
